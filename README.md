@@ -1,8 +1,8 @@
 # Simp1er's Profile
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=Simp1er&show_icons=true&hide_border=false&theme=graywhite&include_all_commits=true&count_private=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Simp1er&layout=compact&hide_border=false&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true">
+  <img src ="https://github-readme-stats.vercel.app/api?username=Simp1er&show_icons=true&hide_border=true&theme=bluewhite&include_all_commits=true&count_private=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Simp1er&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true">
 </p>
 
 ## 🔭 Working
